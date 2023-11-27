@@ -1,0 +1,22 @@
+body {
+    border: 50%;
+
+}
+
+
+img {
+    background-color: white;
+}
+
+h3 {
+    display: inline;
+}
+
+p {
+    justify-content: left;
+}
+
+.checked {
+    color: orange;
+  }
+
